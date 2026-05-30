@@ -2,7 +2,7 @@
 
 Welcome to my repository of custom Power Apps Component Framework (PCF) controls! This repository serves as a centralized library for all the controls I have built to enhance Dynamics 365 and Power Apps interfaces.
 
-## 📁 Repository Structure (For Developers)
+## 📁 Repository Structure
 
 This repository is organized as a **Monorepo**. This means that **every folder in the root directory represents one individual PCF control** and contains its respective source code. 
 
@@ -10,7 +10,7 @@ For example:
 * `📁 Dependent Dropdown Manager/` ➔ Contains the React/TypeScript source code for the Dependent Dropdown control.
 ---
 
-## 📥 How to Download & Install (For Users / Makers)
+## 📥 How to Download & Install
 
 > **⚠️ Note:** You do not need to clone this repository, install `npm`, or touch any code to use these controls in your environment!
 
